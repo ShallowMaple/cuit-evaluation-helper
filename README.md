@@ -46,3 +46,10 @@
 
 - [GitHub Issues](https://github.com/ShallowMaple/cuit-evaluation-helper/issues)
 - [Greasy Fork](https://greasyfork.org/zh-CN/scripts/581990)
+
+## ☕ 支持作者
+如果这个脚本对你有帮助，欢迎请我喝杯咖啡～
+
+**微信**：
+
+![微信赞赏码](https://raw.githubusercontent.com/ShallowMaple/cuit-evaluation-helper/main/wechat_donate.png)
