@@ -12,7 +12,7 @@
 ## 安装方法
 
 1. 安装 Tampermonkey 浏览器扩展
-2. 点击 [这里](https://greasyfork.org/zh-CN/scripts/xxx) 安装
+2. 点击 [这里](https://greasyfork.org/zh-CN/scripts/581990) 安装
 3. 进入教务系统评教页面即可使用
 
 ## 配置说明
@@ -45,4 +45,4 @@
 ## 反馈
 
 - [GitHub Issues](https://github.com/ShallowMaple/cuit-evaluation-helper/issues)
-- [Greasy Fork](https://greasyfork.org/zh-CN/scripts/xxx)-xx-xx)
+- [Greasy Fork](https://greasyfork.org/zh-CN/scripts/581990)
