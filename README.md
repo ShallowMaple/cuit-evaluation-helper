@@ -1,6 +1,7 @@
 # CUIT Evaluation Helper
 
 成都信息工程大学教务系统自动评教辅助工具。
+如果觉得有用，欢迎点个⭐Star～
 
 ## 功能特性
 
@@ -47,8 +48,9 @@
 - [GitHub Issues](https://github.com/ShallowMaple/cuit-evaluation-helper/issues)
 - [Greasy Fork](https://greasyfork.org/zh-CN/scripts/581990)
 
-## ☕ 支持作者
-如果这个脚本对你有帮助，欢迎请我喝杯咖啡～
+## ❤️ 支持作者
+如果这个脚本对你有帮助，欢迎点个⭐Star～，这是对我最大的鼓励～
+如果愿意请我喝杯咖啡☕，可以通过以下方式：
 
 **微信**：
 
