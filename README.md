@@ -1,6 +1,6 @@
 # CUIT Evaluation Helper
 
-成都信息工程大学教务系统自动评教辅助工具。
+成都信息工程大学 **CUIT** 教务系统自动评教辅助工具。
 
 ## 功能特性
 
@@ -12,8 +12,9 @@
 ## 安装方法
 
 1. 安装 Tampermonkey 浏览器扩展
-2. 点击 [这里](https://greasyfork.org/zh-CN/scripts/581990) 安装
+2. 点击 [这里](https://greasyfork.org/zh-CN/scripts/581990) 安装本脚本
 3. 进入教务系统评教页面即可使用
+> 详细教程请参考使用教程.md
 
 ## 配置说明
 
